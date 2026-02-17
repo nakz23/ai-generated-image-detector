@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Dataset
+data/
+
+# Model weights
+best_model.pth
+
+# Generated evaluation outputs
+roc_curve.png
+confusion_matrix.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
